@@ -4,3 +4,4 @@ selenium
 face_recognition
 WeasyPrint
 requests-html
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
